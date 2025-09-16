@@ -1,0 +1,18 @@
+21.08.2025 - UPDATE
+
+-Reduzir iten encontrados por 6 Primeiro Caracteres (X)
+-Retornar tabelas com itens encontrados de cada Fornecedor (X)
+-Nome do Arquivo / Nome do Fornecedor (X)
+-Botão Exportar (X)
+-Botão Limpar Seleção (X)
+-Remover Label Informações (X)
+
+22.08.2025 - UPDATE
+
+-Corrigir Regex do Arquivo Equagril()
+-Ao Exportar Itens remover itens selecionados()
+-Lista Itens que Não foram Encontrados ()
+-Ao Concluir Analise remover itens selecionados (X)
+-Adicionar Drag and Drop files ()
+-Mudar de ttkbootstrap para CustomTkinter ()
+-Melhorar o "Front" ()

@@ -1,0 +1,13 @@
+pandas
+openpyxl
+ttkbootstrap
+tkinter
+time
+threading
+pdfplumber
+os
+re
+timepandas
+pathlib
+shutil
+zipfile
